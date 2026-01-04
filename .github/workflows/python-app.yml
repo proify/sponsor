@@ -39,8 +39,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git add sponsors.json
+          if [ -f "README.md" ]; then
+            git add README.md
+          fi
+          if [ -f "sponsors.json" ]; then
+            git add sponsors.json
+          fi
           if ! git diff --staged --quiet; then
             git commit -m "update sponsors"
             git push
