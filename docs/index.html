@@ -586,14 +586,14 @@
         // 加载数据
         async function loadData() {
             try {
-                const response = await fetch('sponsor.json');
+                const response = await fetch('../sponsor.json');
                 const data = await response.json();
 
                 allSponsors = data.sponsors || [];
                 renderPlayers(allSponsors);
             } catch (error) {
                 document.getElementById('content').innerHTML =
-                    '<div class="empty-state">⚠ 未找到玩家数据<br>请检查 sponsors.json</div>';
+                    '<div class="empty-state">⚠ 未找到玩家数据<br>请检查 sponsor.json</div>';
                 console.error('加载失败:', error);
             }
         }
