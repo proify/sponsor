@@ -40,11 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 自动添加所有更改的文件
           git add -A
-          
-          # 如果有更改，提交并推送
           if ! git diff --staged --quiet; then
             git commit -m "update sponsors"
             git push
