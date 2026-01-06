@@ -586,7 +586,7 @@
         // 加载数据
         async function loadData() {
             try {
-                const response = await fetch('sponsors.json');
+                const response = await fetch('sponsor.json');
                 const data = await response.json();
 
                 allSponsors = data.sponsors || [];

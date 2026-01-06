@@ -29,7 +29,7 @@ class Config:
 
     # 文件配置
     README_FILE: str = "README.md"
-    JSON_FILE: str = "sponsors.json"
+    JSON_FILE: str = "sponsor.json"
     MARKER_START: str = "<!-- AFDIAN_SPONSORS_START -->"
     MARKER_END: str = "<!-- AFDIAN_SPONSORS_END -->"
 
