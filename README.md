@@ -4,10 +4,11 @@ https://proify.github.io/sponsor
 <!-- AFDIAN_SPONSORS_START -->
 ## ❤️ 赞助者列表
 
-> 更新时间: 2026-01-20 12:43:29 (UTC+8) 每4小时更新一次
+> 更新时间: 2026-01-20 16:30:20 (UTC+8) 每4小时更新一次
 
 | 头像 | 昵称 |
 |------|------|
+| <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 爱发电用户_rBc5 |
 | <img src="https://pic1.afdiancdn.com/user/0eb2c0400a4511edac4a52540025c377/avatar/d97d62fbb2aa4fc296e8dabeae4be5de_w600_h600_s58.jpeg" width="50"> | 半夏微凉 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/" width="50"> | 爱发电用户_6ee92 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/" width="50"> | 爱发电用户_db6c2 |
