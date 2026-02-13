@@ -4,10 +4,11 @@ https://proify.github.io/sponsor
 <!-- AFDIAN_SPONSORS_START -->
 ## ❤️ 赞助者列表
 
-> 更新时间: 2026-02-13 04:33:11 (UTC+8) 每4小时更新一次
+> 更新时间: 2026-02-13 10:07:21 (UTC+8) 每4小时更新一次
 
 | 头像 | 昵称 |
 |------|------|
+| <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 爱发电用户_sTxY |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 爱发电用户_rBc5 |
 | <img src="https://pic1.afdiancdn.com/user/0eb2c0400a4511edac4a52540025c377/avatar/d97d62fbb2aa4fc296e8dabeae4be5de_w600_h600_s58.jpeg" width="50"> | 半夏微凉 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/" width="50"> | 爱发电用户_6ee92 |
@@ -52,5 +53,5 @@ https://proify.github.io/sponsor
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png" width="50"> | 爱发电用户_V6S9 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/" width="50"> | 爱发电用户_df506 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 麦麦观饭 |
-| <img src="https://pic1.afdiancdn.com/user/b72fb9924ef111ef8f9f52540025c377/avatar/147d286521f3d9179c8565c394ebb231_w3686_h4914_s5832.jpeg" width="50"> | tomakino |
+| <img src="https://pic1.afdiancdn.com/user/b72fb9924ef111ef8f9f52540025c377/avatar/d2f020a0213c6a06014862c3872d2fd7_w1096_h1096_s1071.png" width="50"> | Tomakino |
 <!-- AFDIAN_SPONSORS_END -->

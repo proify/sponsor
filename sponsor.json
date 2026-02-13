@@ -1,8 +1,15 @@
 {
-  "update_time": "2026-02-13 04:33:11",
-  "update_timestamp": 1770928391,
-  "total_count": 45,
+  "update_time": "2026-02-13 10:07:21",
+  "update_timestamp": 1770948441,
+  "total_count": 46,
   "sponsors": [
+    {
+      "user_id": "cf378436087a11f1999452540025c377",
+      "name": "爱发电用户_sTxY",
+      "avatar": "https://pic1.afdiancdn.com/default/avatar/avatar-blue.png",
+      "timestamp": 1770945898,
+      "time": "2026-02-13 09:24:58"
+    },
     {
       "user_id": "5ef8e0a2f5bf11f0921052540025c377",
       "name": "爱发电用户_rBc5",
@@ -313,8 +320,8 @@
     },
     {
       "user_id": "b72fb9924ef111ef8f9f52540025c377",
-      "name": "tomakino",
-      "avatar": "https://pic1.afdiancdn.com/user/b72fb9924ef111ef8f9f52540025c377/avatar/147d286521f3d9179c8565c394ebb231_w3686_h4914_s5832.jpeg",
+      "name": "Tomakino",
+      "avatar": "https://pic1.afdiancdn.com/user/b72fb9924ef111ef8f9f52540025c377/avatar/d2f020a0213c6a06014862c3872d2fd7_w1096_h1096_s1071.png",
       "timestamp": 1727194333,
       "time": "2024-09-25 00:12:13"
     }
