@@ -4,10 +4,12 @@ https://proify.github.io/sponsor
 <!-- AFDIAN_SPONSORS_START -->
 ## ❤️ 赞助者列表
 
-> 更新时间: 2026-02-14 04:36:59 (UTC+8) 每4小时更新一次
+> 更新时间: 2026-02-14 09:55:58 (UTC+8) 每4小时更新一次
 
 | 头像 | 昵称 |
 |------|------|
+| <img src="https://pic1.afdiancdn.com/user/3e35e2a6093e11f19cd75254001e7c00/avatar/827701e2c8e84aafc66b10cbd21f72f9_w1600_h1600_s315.png" width="50"> | Kifranei |
+| <img src="https://pic1.afdiancdn.com/user/0e59f80612d011ec9bae52540025c377/avatar/d926db57b67fa7db9d55adf3bd9dcf79_w501_h504_s28.jpeg" width="50"> | 大戟霸 |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 爱发电用户_sTxY |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-blue.png" width="50"> | 爱发电用户_rBc5 |
 | <img src="https://pic1.afdiancdn.com/user/0eb2c0400a4511edac4a52540025c377/avatar/d97d62fbb2aa4fc296e8dabeae4be5de_w600_h600_s58.jpeg" width="50"> | 半夏微凉 |

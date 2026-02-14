@@ -1,8 +1,22 @@
 {
-  "update_time": "2026-02-14 04:36:59",
-  "update_timestamp": 1771015019,
-  "total_count": 46,
+  "update_time": "2026-02-14 09:55:58",
+  "update_timestamp": 1771034158,
+  "total_count": 48,
   "sponsors": [
+    {
+      "user_id": "3e35e2a6093e11f19cd75254001e7c00",
+      "name": "Kifranei",
+      "avatar": "https://pic1.afdiancdn.com/user/3e35e2a6093e11f19cd75254001e7c00/avatar/827701e2c8e84aafc66b10cbd21f72f9_w1600_h1600_s315.png",
+      "timestamp": 1771030067,
+      "time": "2026-02-14 08:47:47"
+    },
+    {
+      "user_id": "0e59f80612d011ec9bae52540025c377",
+      "name": "大戟霸",
+      "avatar": "https://pic1.afdiancdn.com/user/0e59f80612d011ec9bae52540025c377/avatar/d926db57b67fa7db9d55adf3bd9dcf79_w501_h504_s28.jpeg",
+      "timestamp": 1771025403,
+      "time": "2026-02-14 07:30:03"
+    },
     {
       "user_id": "cf378436087a11f1999452540025c377",
       "name": "爱发电用户_sTxY",
