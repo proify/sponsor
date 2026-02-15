@@ -4,10 +4,11 @@ https://proify.github.io/sponsor
 <!-- AFDIAN_SPONSORS_START -->
 ## ❤️ 赞助者列表
 
-> 更新时间: 2026-02-15 10:06:43 (UTC+8) 每4小时更新一次
+> 更新时间: 2026-02-15 13:18:03 (UTC+8) 每4小时更新一次
 
 | 头像 | 昵称 |
 |------|------|
+| <img src="https://pic1.afdiancdn.com/default/avatar/avatar-orange.png" width="50"> | blan |
 | <img src="https://pic1.afdiancdn.com/default/avatar/avatar-purple.png?imageView2/1/" width="50"> | 爱发电用户_0e8ba |
 | <img src="https://pic1.afdiancdn.com/user/3e35e2a6093e11f19cd75254001e7c00/avatar/827701e2c8e84aafc66b10cbd21f72f9_w1600_h1600_s315.png" width="50"> | Kifranei |
 | <img src="https://pic1.afdiancdn.com/user/0e59f80612d011ec9bae52540025c377/avatar/d926db57b67fa7db9d55adf3bd9dcf79_w501_h504_s28.jpeg" width="50"> | 大戟霸 |
